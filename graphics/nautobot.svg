@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Nautobot">
+  <rect width="128" height="128" rx="18" fill="#0b2545"/>
+  <circle cx="64" cy="64" r="39" fill="none" stroke="#5cc8ff" stroke-width="8"/>
+  <path d="M32 73h64M37 54h54M48 36l32 56M80 36 48 92" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="64" cy="64" r="10" fill="#5cc8ff"/>
+</svg>
